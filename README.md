@@ -202,9 +202,17 @@ Non‑serious signals (ignored as root cause): _warnings_, container pending, re
 
 ---
 
+## 🧑‍💻 Author & Credits
+
+Developed by **Kanishk Mishra**  
+*Former* AI Intern at **RNTBCI (Renault Nissan Technology & Business Centre India)**  
+Focus: *AI for Automotive Test Automation & Validation*
+
+---
+
 ## 📜 License
 
-Add your license of choice (e.g., Apache‑2.0, MIT) to the repository root as `LICENSE`.
+Licensed under the **MIT License** — free to use, modify, and distribute with attribution.
 
 ---
 
